@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+i don't know how to use markdowmn.
 Use the left arrow to go back!
